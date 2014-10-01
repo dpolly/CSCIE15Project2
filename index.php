@@ -8,10 +8,12 @@
     <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>
+
     <div id="header" class="row">
 		<?php include ("content/header.php"); ?>
     </div>
     <div id="content" class="row">
+        <?php require ("php/logic.php"); ?>
         <?php require ("content/content.php"); ?>
 	</div>
 	<div id="footer" class="row">
