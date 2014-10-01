@@ -14,8 +14,10 @@
 		<?php include ("content/header.php"); ?>
     </div>
     <div id="content" class="row">
-        <?php require ("php/logic.php"); ?>
-        <?php require ("content/content.php"); ?>
+	    <div class="small-12 columns">
+            <?php require ("php/logic.php"); ?>
+            <?php require ("content/content.php"); ?>
+	    </div>
 	</div>
 	<div id="footer" class="row">
         <?php include ("content/footer.php"); ?>
