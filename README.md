@@ -11,7 +11,9 @@ A password generator based on the principals outlined on XKCD website <http://xk
 
 ## DEMO
 
-## NOTES FOR TEACHING TEAM: 
+## NOTES FOR TEACHING TEAM:
+ *No password for Github
+ *CSS Validation will fail on foundation css files
 
 ## OUTSIDE CODE
 * Foundation 5: <http://foundation.zurb.com//>

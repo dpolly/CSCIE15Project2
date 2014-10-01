@@ -1,17 +1,9 @@
 	<div id="information" class="small-3 columns">
 	    <div class="panel">
-	        <div class="row">
-	            <h4>What?</h4>
-	            <p> This application will generate random passwords using real words.   Using real words makes
-	                easier for you to remember your password.
-	            </p>
-	        </div>
-	        <div class="row">
-	            <h4>How?</h4>
-	            <p>Select the options such as how many words, special characters, numbers and capitalization you want.
-	                Then press the "Generate Password" button and the system will display a randomly generated password for you.
-	            </p>
-	        </div>
+             <p> The generator will create a random password using everyday words making them easier to remember.
+		      Note to increase complexity make sure you select the option to generate multiple words and any additional
+	          password requirements the system may have.  For example capital letter, special characters and/or numbers.
+            </p>
 	    </div>
 	</div>
 	<div id="password" class="small-9 columns">
