@@ -3,7 +3,7 @@
 </div>
 <div class="small-9 columns">
     <div class="panel">
-    <h1 align="center">XKCD Password Generator</h1>
+    <h1>XKCD Password Generator</h1>
     </div>
 </div>
 
