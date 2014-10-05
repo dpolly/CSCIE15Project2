@@ -10,7 +10,7 @@ Denise M Polly
 A password generator based on the principals outlined on XKCD website <http://xkcd.com/936//>
 
 ## DEMO
-Jing Demo <http://www.screencast.com/t/a8IagVpK/>
+Jing Demo at <http://www.screencast.com/t/a8IagVpK/>
 
 ## NOTES FOR TEACHING TEAM:
  *No password for Github
